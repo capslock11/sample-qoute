@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+
+
+.first-div{
+    margin: 20px;
+    align-content: center;
+    margin-left: 25%;
+    width: 50%;
+    padding: 20px;
+    
+
+}
+h1{
+    color: white;
+    font-display:;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+p{
+    color: white;
+    text-align: center;
+}
